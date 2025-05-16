@@ -6,7 +6,7 @@ from io import BytesIO
 
 # Set page config
 st.set_page_config(page_title="Image Text Extractor", page_icon="🔍")
-
+#made by nilesh mete
 # Footer
 st.markdown("""
 <style>
